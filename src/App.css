@@ -1,0 +1,38 @@
+/* styles.css */
+.card-container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(to bottom, #4caf50, #45a049);
+  text-align: center;
+}
+
+.title {
+  color: #fff;
+}
+
+.action-button {
+  font-size: 16px;
+  margin: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #fff;
+  color: #4caf50;
+  border: none;
+  border-radius: 5px;
+}
+
+.advice-container {
+  margin-top: 20px;
+  color: #fff;
+}
+
+.advice-id {
+  font-size: 14px;
+}
+
+.advice-text {
+  font-size: 18px;
+}
